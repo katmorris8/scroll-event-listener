@@ -1,0 +1,23 @@
+body {
+  height: 1000px;
+}
+
+.green {
+  text-align: center;
+  font-family: helvetica;
+  color: white;
+  background-color: green;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aqua {
+  background-color: aqua;
+  color: black;
+}
