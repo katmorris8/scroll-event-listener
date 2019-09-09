@@ -15,9 +15,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  transition: background-color 500ms ease 250ms,
+              color 500ms ease 250ms;
 }
 
 .aqua {
   background-color: aqua;
   color: black;
+  transition: background-color 500ms ease 250ms,
+              color 500ms ease 250ms;
 }
